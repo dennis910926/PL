@@ -13,8 +13,8 @@
 ***
 > ### 📚作業連結區
 + #### Week1
-  - [X] **建立PL Repo.**
-  - [X] **安裝Anaconda**
+  - [ ] **建立PL Repo.**
+  - [ ] **安裝Anaconda**
 + #### Week2
   + **Python練習**
 ***
