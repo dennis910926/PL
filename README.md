@@ -43,7 +43,7 @@
   + #### 2. 建立*PL Repo.*
   + #### 3. 安裝*Anaconda*
 + #### *Week2*
-  + [**Python練習**](https://github.com/dennis910926/PL/blob/main/Week2%E7%B7%B4%E7%BF%92.ipynb)
+  + [*Python*](https://github.com/dennis910926/PL/blob/main/Week2%E7%B7%B4%E7%BF%92.ipynb)練習
 + #### *Week3*
 + #### *Week4*
 + #### *Week5*
