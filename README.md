@@ -43,7 +43,7 @@
   + #### 2. 建立*PL Repo.*
   + #### 3. 安裝*Anaconda*
 + #### *Week2*
-  + **Python練習**
+  + [**Python練習**]()
 + #### *Week3*
 + #### *Week4*
 + #### *Week5*
