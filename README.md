@@ -15,17 +15,29 @@
   + [專題連結區](https://github.com/dennis910926/PL/edit/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ---
 > ### 📝`課程筆記區`
-+ #### Week1
++ #### *Week1*
   + **1. The Iceberg Illusion**
   + **2. 為甚麼需要學習程式語言?**
-+ #### Week2
++ #### *Week2*
++ #### *Week3*
++ #### *Week4*
++ #### *Week5*
++ #### *Week6*
++ #### *Week7*
++ #### *Week8*
 ***
 > ### 📚`作業連結區`
-+ #### Week1
-+ + **1. 註冊Github**
++ #### *Week1*
+  + **1.  註冊Github**
   + **2. 建立PL Repo.**
   + **3. 安裝Anaconda**
-+ #### Week2
++ #### *Week2*
++ #### *Week3*
++ #### *Week4*
++ #### *Week5*
++ #### *Week6*
++ #### *Week7*
++ #### *Week8*
   + **Python練習**
 ***
 > ### 📁`專題連結區`
