@@ -45,6 +45,7 @@
 + #### *Week2*
   + #### [*Python*](https://github.com/dennis910926/PL/blob/main/Week2%E7%B7%B4%E7%BF%92.ipynb)練習
 + #### *Week3*
+  + #### [*Python*](https://github.com/dennis910926/PL/tree/main/Week3)作業
 + #### *Week4*
 + #### *Week5*
 + #### *Week6*
