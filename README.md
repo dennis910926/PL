@@ -45,9 +45,10 @@
 + #### *Week2*
   + #### [*Python*](https://github.com/dennis910926/PL/blob/main/Week2%E7%B7%B4%E7%BF%92.ipynb)練習
 + #### *Week3*
-  + #### [*Python*](https://github.com/dennis910926/PL/tree/main/Week3)作業
+  + #### [*Python*](https://github.com/dennis910926/PL/tree/main/Week3)作業1
 + #### *Week4*
 + #### *Week5*
+  + #### [*Python*](http://localhost:8888/notebooks/Desktop/NTNU/%E4%BF%AE%E9%81%8E%E7%9A%84%E8%AA%B2%E7%A8%8B/%E5%A4%A7%E4%BA%8C%E4%B8%8A/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80-%E8%94%A1%E8%8A%B8%E7%90%A4/PL/HW2/HW2.ipynb)作業2
 + #### *Week6*
 + #### *Week7*
 + #### *Week8*
