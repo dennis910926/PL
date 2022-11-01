@@ -51,6 +51,7 @@
   + #### [*Python*](https://github.com/dennis910926/PL/blob/main/HW2/HW2.ipynb)作業2
 + #### *Week6*
 + #### *Week7*
+  + #### [*Python*]()
 + #### *Week8*
 ***
 > ### 📁`專題連結區`
