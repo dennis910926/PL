@@ -51,7 +51,7 @@
   + #### [*Python*](https://github.com/dennis910926/PL/blob/main/HW2/HW2.ipynb)作業2
 + #### *Week6*
 + #### *Week7*
-  + #### [*Python*](https://drive.google.com/drive/u/0/folders/1104R6MqvdgX_JhtcGDSnop4jthr1g94w)作業3
+  + #### [*Python*](https://github.com/dennis910926/PL/blob/main/hw3/%E7%88%AC%E8%9F%B2%E4%BD%9C%E6%A5%AD.ipynb)作業3
 + #### *Week8*
 ***
 > ### 📁`專題連結區`
